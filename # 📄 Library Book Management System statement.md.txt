@@ -1,0 +1,37 @@
+# 📄 Library Book Management System Documentation
+
+## I. Project Statement of Purpose
+
+This project is a fundamental **Library Book Management System** developed as an introduction to basic programming concepts.
+
+The primary objective is to address the inefficiency and potential for error inherent in **manual book management** by providing a basic digital tool. The system serves as a simple, menu-driven solution implemented in Python, allowing users to **Add books**, **View the complete book list**, and **Search for books** by title or author.
+
+By utilizing core programming elements like lists and dictionaries, the project successfully demonstrates the fundamentals of modular design and function implementation. Ultimately, this system provides a simple, accurate, and easy-to-use application that fulfills the need for basic library organization.
+
+---
+
+## II. Project Summary & Technical Details
+
+### 1. Overview
+* **Project Name:** Library Book Management System
+* **Purpose:** To manage books in a library efficiently.
+* **Technology:** Python (Basic Programming Concepts).
+* **Data Implementation:** Uses Python lists and dictionaries.
+* **Author:** ADWITIYA DAS (25BOE10031).
+
+### 2. Key Features (Functional Requirements)
+The system is a simple menu-driven program and includes the following features:
+* Add new books with title, author, and year.
+* View complete library list.
+* Search books using title/author keyword.
+* Exit the program.
+
+### 3. Top-Down Design Modules
+The project is structured around the following modules (functions):
+* `add_book()`
+* `view_books()`
+* `search_book()`
+* `menu()`
+
+### 4. Project Structure
+The project directory is structured as follows:
